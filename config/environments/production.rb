@@ -77,7 +77,7 @@ RailsStripeMembershipSaas::Application.configure do
     enable_starttls_auto: true,
     user_name: ENV["jeeva.company@gmail.com"],
     password: ENV["secret"]
-  }
+  } 
 
 
 
